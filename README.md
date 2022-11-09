@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ```javascript
 const carles = {
   pronouns: "he" | "him",
-  code: [HTML, CSS, JavaScript],
+  code: [HTML, CSS, JavaScript, Typescript],
   technologies: {
       frontend: {
           js: ["Angular"],
