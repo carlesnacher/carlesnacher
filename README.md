@@ -20,7 +20,7 @@ const carles = {
   pronouns: "he" | "him",
   code: [HTML, CSS, JavaScript],
   technologies: {
-    frontend: {
+      frontend: {
           js: ["Angular"],
           css: ["bootstrap"]
           },
