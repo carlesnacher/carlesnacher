@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```javascript
+const carles = {
+  pronouns: "he" | "him",
+  code: [HTML, CSS, JavaScript],
+  technologies: {
+    frontend: {
+          js: ["Angular"],
+          css: ["bootstrap"]
+          },
+  },
+ currentOccupation: ["last year student, open for job opportunities"],
+};
