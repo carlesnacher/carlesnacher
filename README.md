@@ -21,8 +21,8 @@ const carles = {
   code: [HTML, CSS, JavaScript, Typescript],
   technologies: {
       frontend: {
-          spa: ["Angular"],
-          ux: ["bootstrap, responsive, git"]
+          spa: [Angular],
+          ux: [bootstrap, responsive, git]
           },
   },
  currentOccupation: ["last year student, open for job opportunities"],
