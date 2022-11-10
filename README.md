@@ -22,7 +22,7 @@ const carles = {
   technologies: {
       frontend: {
           spa: [Angular],
-          ux: [Bootstrap, Responsive, Git]
+          ux: [Bootstrap, Responsive Design, Git]
           },
   },
  currentOccupation: ["last year student, open for job opportunities"],
